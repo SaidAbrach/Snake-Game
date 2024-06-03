@@ -2,17 +2,6 @@
 
 A classic Snake game built using HTML, CSS, and JavaScript.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Demo](#demo)
-- [How to Play](#how-to-play)
-- [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Introduction
 
 This Snake game is a simple yet addictive web-based game where players control a snake to eat food and grow in size while avoiding obstacles and walls. It's built with HTML, CSS, and JavaScript.
@@ -23,10 +12,6 @@ This Snake game is a simple yet addictive web-based game where players control a
 - Score tracking
 - High score persistence using local storage
 - Responsive design for different screen sizes
-
-## Demo
-
-You can play the game [here](https://your-game-url.com).
 
 ## How to Play
 
@@ -45,10 +30,6 @@ You can play the game [here](https://your-game-url.com).
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
